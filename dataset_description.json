@@ -1,0 +1,33 @@
+{
+  "Name": "neuroCOVID_Chile",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "raw",
+  "License": "",
+  "Acknowledgements": "",
+  "HowToAcknowledge": "cite: ",
+  "SourceDatasets": [
+    {
+      "DOI": "",
+      "Version": "1.0"
+    }
+  ],
+  "HEDVersion": "",
+  "Funding": [
+    "ANID FONDECYT 11140535",
+    "ANID FONDECYT 1181295",
+    "ANID FONDECYT 1211227",
+    "ANID FONDEQUIP EQM150076",
+    "UNIVERSIDAD DEL DESARROLLO",
+    "CLINICA ALEMANA DE SANTIAGO"
+  ],
+  "Authors": [
+    "Alejandra Figueroa-Vargas",
+    "Leonie Kausel",
+    "María Paz Martínez-Molina",
+    "Francisco Zamorano",
+    "Ximena Stecher",
+    "Patricia Soto-Icaza",
+    "Pablo Billeke"
+  ],
+  "ReferencesAndLinks": ["..."]
+}
